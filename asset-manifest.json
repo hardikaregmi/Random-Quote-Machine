@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hardikaregmi/random-quote-machine.git/static/css/main.c52c1c43.css",
+    "main.js": "/hardikaregmi/random-quote-machine.git/static/js/main.5f5d29b5.js",
+    "index.html": "/hardikaregmi/random-quote-machine.git/index.html",
+    "main.c52c1c43.css.map": "/hardikaregmi/random-quote-machine.git/static/css/main.c52c1c43.css.map",
+    "main.5f5d29b5.js.map": "/hardikaregmi/random-quote-machine.git/static/js/main.5f5d29b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52c1c43.css",
+    "static/js/main.5f5d29b5.js"
+  ]
+}
